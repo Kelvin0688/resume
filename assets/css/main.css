@@ -1301,9 +1301,20 @@ section,
   font-size:18px;
   font-weight: 500;
 }
-/*--------------------------------------------------------------
-# Starter Section Section
---------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
+.download_CV{
+  background-color:  var(--accent-color);
+  color:white;
+}
+.download_CV:hover{
+  background-color: white;
+  color:var(--accent-color);;
+}
+.download_CV2{
+  color:black;
+  border: 1px solid var(--accent-color);
+}
+.download_CV2:hover{
+  color:black;
+  border:1px solid black;
+  
 }
